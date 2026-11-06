@@ -5,7 +5,7 @@
 <p>
 Since I was a kid, I've always held a passion for building things like Gunpla and Lego Mindstorms, which naturally evolved into a keen interest in coding and building projects. I love the satisfaction that derives from solving software's issues, and challenging myself through problem solving. Whether it’s working on personal projects or collaborating with others, I’m excited about the endless possibilities that technology offers!
 
-I'm expected to graduate December of 2026, and I'm currently passionate about diving into both Software Engineering and AI/ML. I’ve worked with technologies like Python, Java, React, Node.js, Docker, Firebase, and I enjoy building full-stack apps, experimenting with ML models, and optimizing backend systems.</p>
+I'm expected to graduate May of 2027, and I'm currently passionate about diving into both Software Engineering and AI/ML. I’ve worked with technologies like Python, Java, React, Node.js, Docker, Firebase, and I enjoy building full-stack apps, experimenting with ML models, and optimizing backend systems.</p>
 
 - 🔭 I’m currently working on [Karaoke Convertor](https://github.com/edwaddle/Karaoke-Convertor)
 
